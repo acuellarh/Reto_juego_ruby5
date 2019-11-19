@@ -1,0 +1,12 @@
+Base de datos relacional más popular de la actualidad
+SQL
+A cada grupo de 8 bits se le conoce como un ..
+BYTE
+Lenguaje de programación mas utilizado en Frontend.
+JAVASCRIPT
+Lenguaje de programación dinámico y de código abierto enfocado en la simplicidad y productividad.
+RUBY
+lenguaje que se utiliza para definir el formato (los estilos) de los elementos HTML.
+CSS
+
+
