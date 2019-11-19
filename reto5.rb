@@ -14,13 +14,6 @@
   2. Cómo representar el puntaje
   3. Cómo representar las preguntas y sus respuestas
   4. Cómo representar las preguntas que ya se realizarón y las preguntas por hacer
-
-  Leer de un archivo
-  puts File.read("path/al/archivo")
-
-  Para obtener las líneas en un arreglo:
-  arr = IO.readlines(file_path)
-
 =end
 class Questionary
   attr_reader :file
